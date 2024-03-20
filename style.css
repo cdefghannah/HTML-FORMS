@@ -120,7 +120,7 @@ body
   padding: 5px;
   font-size: 14px; 
   border: 1px solid #D6D9DC;
-  -webkit-appearance: none; 
+  appearance: none; 
   outline: none;
  }
  
